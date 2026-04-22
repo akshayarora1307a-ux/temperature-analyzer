@@ -21,6 +21,11 @@ A simple GUI-based Python application that analyzes temperature data using NumPy
 * NumPy
 * Tkinter
 
+## 📸 Application Screenshot
+
+<img src="screenshot.png" width="600"><img width="1919" height="843" alt="image" src="https://github.com/user-attachments/assets/93ad84c9-126d-4b22-a559-5f6b3ae95b13" />
+
+
 ---
 
 ## ▶️ How to Run
